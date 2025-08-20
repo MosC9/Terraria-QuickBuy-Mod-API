@@ -7,7 +7,7 @@ This repository provides example code and documentation for developers who want 
 
 ## 🚀 How to Use
 
-To use this API in your own mod, simply copy the code from the `คู่มือการใช้งาน QuickBuy Mod.Call() (API) สำหรับนักพัฒนา.cs` file and adapt it to your needs.
+To use this API in your own mod, simply copy the code from the [`คู่มือการใช้งาน QuickBuy Mod.Call() (API) สำหรับนักพัฒนา.cs`](%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%20QuickBuy%20Mod.Call()%20(API)%20%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2.cs) file and adapt it to your needs.
 
 The core logic involves checking if the QuickBuy mod is enabled before attempting to call its functions:
 
