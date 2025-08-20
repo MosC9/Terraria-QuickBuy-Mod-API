@@ -1,6 +1,7 @@
 # QuickBuy Mod API - Developer Guide
 
 This repository provides example code and documentation for developers who want to integrate their Terraria mods with the **QuickBuy Mod**.
+### ▶️ [Find the QuickBuy Mod on the Steam Workshop Here](https://steamcommunity.com/sharedfiles/filedetails/?id=3536320364)
 
 ---
 
